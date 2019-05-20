@@ -16,8 +16,7 @@
 <title>도파밍 프로젝트</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="./resources/css/bootstrap.min.css" rel="stylesheet">
-    <link href="./resources/css/style2.css" rel="stylesheet">
+    <link href="./resources/css/bootstrap.min.css" rel="stylesheet">    
 	<!-- <link href="./resources/css/sb-admin-2.min.css" rel="stylesheet"> -->
     <!-- Custom styles for this template -->    
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -27,9 +26,13 @@
     <script src="./resources/js/ie-emulation-modes-warning.js"></script>        
 	<style>
 
-		.m_col{		
+		.r_col{		
 			margin: 0px auto 0px auto;
 			float:right;					
+		}
+		.l_col{
+			margin: 0px auto 0px auto;
+			float:left;
 		}
 		.first_col{
 			margin: 0px auto;
